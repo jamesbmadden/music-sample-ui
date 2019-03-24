@@ -1,0 +1,43 @@
+{
+  "title": "Christmas & Chill",
+  "cover": "https://i.scdn.co/image/42a48d35e8a1d89b46b728ffdf38a2bfb7dfeba9",
+  "artist": "Ariana Grande",
+  "tracks": [
+    {
+      "title": "Intro",
+      "artists": ["Ariana Grande"],
+      "length": "1:06",
+      "explicit": false
+    },
+    {
+      "title": "Wit It This Christmas",
+      "artists": ["Ariana Grande"],
+      "length": "2:41",
+      "explicit": false
+    },
+    {
+      "title": "December",
+      "artists": ["Ariana Grande"],
+      "length": "1:56",
+      "explicit": false
+    },
+    {
+      "title": "Not Just On Christmas",
+      "artists": ["Ariana Grande"],
+      "length": "2:03",
+      "explicit": false
+    },
+    {
+      "title": "True Love",
+      "artists": ["Ariana Grande"],
+      "length": "2:46",
+      "explicit": false
+    },
+    {
+      "title": "Winter Things",
+      "artists": ["Ariana Grande"],
+      "length": "2:39",
+      "explicit": false
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Yours Truly",
+  "cover": "https://i.scdn.co/image/b844b5f7ec34cdfab7bc065995e72c94d22bf2e4",
+  "artist": "Ariana Grande",
+  "tracks": [
+    {
+      "title": "Honeymoon Avenue",
+      "artists": ["Ariana Grande"],
+      "length": "5:40",
+      "explicit": false
+    },
+    {
+      "title": "Baby I",
+      "artists": ["Ariana Grande"],
+      "length": "3:18",
+      "explicit": false
+    },
+    {
+      "title": "Right There",
+      "artists": ["Ariana Grande", "Big Sean"],
+      "length": "4:07",
+      "explicit": false
+    },
+    {
+      "title": "Tattooed Heart",
+      "artists": ["Ariana Grande"],
+      "length": "3:15",
+      "explicit": false
+    },
+    {
+      "title": "Lovin' It",
+      "artists": ["Ariana Grande"],
+      "length": "3:01",
+      "explicit": false
+    },
+    {
+      "title": "Piano",
+      "artists": ["Ariana Grande"],
+      "length": "3:54",
+      "explicit": false
+    },
+    {
+      "title": "Daydreamin'",
+      "artists": ["Ariana Grande"],
+      "length": "3:51",
+      "explicit": false
+    },
+    {
+      "title": "The Way",
+      "artists": ["Ariana Grande", "Mac Miller"],
+      "length": "3:47",
+      "explicit": false
+    },
+    {
+      "title": "You'll Never Know",
+      "artists": ["Ariana Grande"],
+      "length": "3:34",
+      "explicit": false
+    },
+    {
+      "title": "Almost Is Never Enough",
+      "artists": ["Ariana Grande", "Nathan Sykes"],
+      "length": "5:28",
+      "explicit": false
+    },
+    {
+      "title": "Popular Song",
+      "artists": ["Ariana Grande", "MIKA"],
+      "length": "3:20",
+      "explicit": false
+    },
+    {
+      "title": "Better Left Unsaid",
+      "artists": ["Ariana Grande"],
+      "length": "3:31",
+      "explicit": false
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "title": "Sweetener",
+  "cover": "https://i.scdn.co/image/381891c42f301e0abaa1b1dcfbf0390334e698eb",
+  "artist": "Ariana Grande",
+  "tracks": [
+    {
+      "title": "raindrops (an angel cried)",
+      "artists": ["Ariana Grande"],
+      "length": "0:38",
+      "explicit": true
+    },
+    {
+      "title": "blazed (feat. Pharrell Williams)",
+      "artists": ["Ariana Grande", "Pharrell Williams"],
+      "length": "3:16",
+      "explicit": true
+    },
+    {
+      "title": "the light is coming (feat. Nicki Minaj)",
+      "artists": ["Ariana Grande", "Nicki Minaj"],
+      "length": "3:48",
+      "explicit": true
+    },
+    {
+      "title": "R.E.M",
+      "artists": ["Ariana Grande"],
+      "length": "4:06",
+      "explicit": true
+    },
+    {
+      "title": "God is a woman",
+      "artists": ["Ariana Grande"],
+      "length": "3:18",
+      "explicit": true
+    },
+    {
+      "title": "sweetener",
+      "artists": ["Ariana Grande"],
+      "length": "3:28",
+      "explicit": true
+    },
+    {
+      "title": "successful",
+      "artists": ["Ariana Grande"],
+      "length": "3:47",
+      "explicit": true
+    },
+    {
+      "title": "everytime",
+      "artists": ["Ariana Grande"],
+      "length": "2:52",
+      "explicit": true
+    },
+    {
+      "title": "breathin",
+      "artists": ["Ariana Grande"],
+      "length": "3:18",
+      "explicit": true
+    },
+    {
+      "title": "no tears left to cry",
+      "artists": ["Ariana Grande"],
+      "length": "3:26",
+      "explicit": false
+    },
+    {
+      "title": "borderline (feat. Missy Eliott)",
+      "artists": ["Ariana Grande", "Missy Eliott"],
+      "length": "2:58",
+      "explicit": true
+    },
+    {
+      "title": "better off",
+      "artists": ["Ariana Grande"],
+      "length": "2:51",
+      "explicit": true
+    },
+    {
+      "title": "goodnight n go",
+      "artists": ["Ariana Grande"],
+      "length": "3:10",
+      "explicit": true
+    },
+    {
+      "title": "pete davidson",
+      "artists": ["Ariana Grande"],
+      "length": "1:14",
+      "explicit": true
+    },
+    {
+      "title": "get well soon",
+      "artists": ["Ariana Grande"],
+      "length": "5:22",
+      "explicit": true
+    }
+  ]
+}

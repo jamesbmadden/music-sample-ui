@@ -1,0 +1,79 @@
+{
+  "title": "thank u, next",
+  "cover": "https://i.scdn.co/image/4edc7914bfab6ecb0a0faa49e09b33557009c1b0",
+  "artist": "Ariana Grande",
+  "tracks": [
+    {
+      "title": "imagine",
+      "artists": ["Ariana Grande"],
+      "length": "3:32",
+      "explicit": true
+    },
+    {
+      "title": "needy",
+      "artists": ["Ariana Grande"],
+      "length": "2:52",
+      "explicit": true
+    },
+    {
+      "title": "NASA",
+      "artists": ["Ariana Grande"],
+      "length": "3:02",
+      "explicit": false
+    },
+    {
+      "title": "bloodline",
+      "artists": ["Ariana Grande"],
+      "length": "3:37",
+      "explicit": true
+    },
+    {
+      "title": "fake smile",
+      "artists": ["Ariana Grande"],
+      "length": "3:29",
+      "explicit": true
+    },
+    {
+      "title": "bad idea",
+      "artists": ["Ariana Grande"],
+      "length": "4:27",
+      "explicit": false
+    },
+    {
+      "title": "make up",
+      "artists": ["Ariana Grande"],
+      "length": "2:21",
+      "explicit": true
+    },
+    {
+      "title": "ghostin",
+      "artists": ["Ariana Grande"],
+      "length": "4:31",
+      "explicit": false
+    },
+    {
+      "title": "in my head",
+      "artists": ["Ariana Grande"],
+      "length": "3:43",
+      "explicit": true
+    },
+    {
+      "title": "7 rings",
+      "artists": ["Ariana Grande"],
+      "length": "2:59",
+      "explicit": true
+    },
+    {
+      "title": "thank u, next",
+      "artists": ["Ariana Grande"],
+      "length": "3:27",
+      "explicit": true
+    },
+    {
+      "title": "break up with your girlfriend, I'm bored",
+      "artists": ["Ariana Grande"],
+      "length": "3:10",
+      "explicit": true
+    }
+  ]
+}
