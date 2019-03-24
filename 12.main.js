@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{14:function(t){t.exports={title:"no tears left to cry",cover:"https://i.scdn.co/image/0208a25abdaa8afacd21d26e0710f2447c78feb6",artist:"Ariana Grande",tracks:[{title:"no tears left to cry",artists:["Ariana Grande"],length:"3:26",explicit:!1}]}}}]);

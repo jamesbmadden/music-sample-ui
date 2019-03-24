@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{13:function(a){a.exports={title:"Jason's Song (Gave It Away)",cover:"https://i.scdn.co/image/1aef74cef092e2d847a3811ff0b8ec4f4f5cfd51",artist:"Ariana Grande",tracks:[{title:"Jason's Song (Gave It Away)",artists:["Ariana Grande"],length:"4:25",explicit:!0}]}}}]);

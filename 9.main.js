@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{11:function(i){i.exports={title:"7 rings",cover:"https://i.scdn.co/image/fcb6872e3c38dd109671f76bcfc6477b3d42e88e",artist:"Ariana Grande",tracks:[{title:"7 rings",artists:["Ariana Grande"],length:"2:59",explicit:!0}]}}}]);
